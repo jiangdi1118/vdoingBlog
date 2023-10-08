@@ -1,24 +1,24 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 麋鹿鲁哟
+heroText: 三生区块链
 tagline: 运气交给锦鲤，你只管努力就好。
 # actionText: 立刻进入 →
 # actionLink: /web/
 bannerBg: custom #custom自定义 # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
-  - title: 前端
-    details: JS、ES6、Vue框架等前端技术
-    link: /web/ # 可选
+  - title: 初识区块链
+    details: 浅说区块链，系统的了解区块链基础知识
+    link: /pages/b1d6f0/ # 可选
     imgUrl: /img/1.png # 可选
   - title: 技术
-    details: 技术文档、教程、技巧、总结等文章
+    details: 一起来探索区块链的一些常用技术
     link: /technology/
     imgUrl: /img/2.png
-  - title: 面试
-    details: 题目及答案总结等
-    link: /interview/
+  - title: 应用
+    details: 区块链有哪些应用场景呢
+    link: /app/
     imgUrl: /img/3.png
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
