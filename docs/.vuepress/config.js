@@ -169,11 +169,11 @@ module.exports = {
       {
         choosen: 'gitalk', 
         options: {
-          clientID: '714fa71d5852fd111050',
-          clientSecret: '7d111a2f0cd9c24fa53482077c4cced062f9916f',
+          clientID: '61e45abdccc42ea76ca3',
+          clientSecret: '91ca9fd821ba1d4678db2d63633fb3b6dbde595b',
           repo: 'vdoingBlog', // GitHub 仓库
-          owner: 'miluluyo', // GitHub仓库所有者
-          admin: ['miluluyo'], // 对仓库有写权限的人
+          owner: 'jiangdi1118', // GitHub仓库所有者
+          admin: ['jiangdi1118'], // 对仓库有写权限的人
           distractionFreeMode: false,
           pagerDirection: 'last', // 'first'正序 | 'last'倒序
           id: "<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>", //  页面的唯一标识,长度不能超过50
