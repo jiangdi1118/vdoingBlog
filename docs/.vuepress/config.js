@@ -86,7 +86,7 @@ module.exports = {
     },
     footer:{ // 页脚信息
       createYear: 2023, // 博客创建年份
-      copyrightInfo: '三生区块链 | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      copyrightInfo: '<a href="https://docs.metass.top" target="_blank">三生区块链</a> | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
     },
     htmlModules
   },
